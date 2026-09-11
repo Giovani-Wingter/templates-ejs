@@ -63,7 +63,7 @@
   main {
     flex: 1;
     padding: 20px;
-    background-color: white;
+    background-color: rgb(241, 232, 232);
     margin: 20px auto;
     max-width: 900px;
     border-radius: 10px;
