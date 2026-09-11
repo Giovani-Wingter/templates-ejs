@@ -1,15 +1,24 @@
 {
   "name": "modelo-app-node",
   "version": "1.0.0",
-  "description": "",
+  "description": "Express e EJS atualizados em fev/25",
+  "homepage": "https://github.com/felixdpss/templates-ejs#readme",
+  "bugs": {
+    "url": "https://github.com/felixdpss/templates-ejs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixdpss/templates-ejs.git"
+  },
+  "license": "ISC",
+  "author": "Felix",
+  "type": "commonjs",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.10",
-    "express": "^4.21.2"
+    "express": "^4.22.2"
   }
 }
