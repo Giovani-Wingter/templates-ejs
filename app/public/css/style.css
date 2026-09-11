@@ -1,12 +1,12 @@
 :root {
-  --cor-fundo-pagina: #f8f9fa; /* Cor de fundo suave (cinza claro) */
-  --cor-cabecalho: #f7b7cdf1; /* Azul padrão (cor primária do Bootstrap) */
-  --cor-navegacao: #ffe7e7; /* Cinza suave para a navegação */
-  --cor-botoes: #a09496; /* Verde de sucesso */
-  --cor-botoes-hover: #218838; /* Verde mais escuro para hover */
-  --cor-titulo: #ffffff; /* Cor escura para os títulos */
-  --cor-texto: #212529; /* Cor do texto principal */
-  --cor-texto-secundario: #2d95f0; /* Cor suave para texto secundário */
+  --cor-fundo-pagina: #f5f5f5 ; /* Cor de fundo suave (cinza claro) */
+  --cor-cabecalho: #2f2f2f ; /* Azul padrão (cor primária do Bootstrap) */
+  --cor-navegacao: #e5e5e5 ; /* Cinza suave para a navegação */
+  --cor-botoes: #404040 ; /* Verde de sucesso */
+  --cor-botoes-hover: #262626 ; /* Verde mais escuro para hover */
+  --cor-titulo: #000000 ; /* Cor escura para os títulos */
+  --cor-texto: #3f3f3f ; /* Cor do texto principal */
+  --cor-texto-secundario: #737373 ; /* Cor suave para texto secundário */
   
   }
   
