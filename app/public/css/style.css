@@ -2,11 +2,11 @@
   --cor-fundo-pagina: #f8f9fa; /* Cor de fundo suave (cinza claro) */
   --cor-cabecalho: #f7b7cdf1; /* Azul padrão (cor primária do Bootstrap) */
   --cor-navegacao: #ffe7e7; /* Cinza suave para a navegação */
-  --cor-botoes: #a09496; /* Verde de sucesso */
-  --cor-botoes-hover: #218838; /* Verde mais escuro para hover */
+  --cor-botoes: #745459; /* Verde de sucesso */
+  --cor-botoes-hover: #da144f; /* Verde mais escuro para hover */
   --cor-titulo: #ffffff; /* Cor escura para os títulos */
-  --cor-texto: #212529; /* Cor do texto principal */
-  --cor-texto-secundario: #2d95f0; /* Cor suave para texto secundário */
+  --cor-texto: #000000; /* Cor do texto principal */
+  --cor-texto-secundario: #606264; /* Cor suave para texto secundário */
   
   }
   
@@ -17,7 +17,7 @@
   }
   
   body {
-    font-family: Arial, sans-serif;
+    font-family: Georgia, serif;
     line-height: 1.6;
     background-color: var(--cor-fundo-pagina);
     color: var(--cor-texto);
@@ -72,7 +72,7 @@
   
   footer {
     background-color: var(--cor-cabecalho);
-    color: white;
+    color: rgb(102, 6, 38);
     text-align: center;
     padding: 10px;
     margin-top: 20px;
