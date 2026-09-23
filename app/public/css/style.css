@@ -4,7 +4,7 @@
   --cor-navegacao: #ffe7e7; /* Cinza suave para a navegação */
   --cor-botoes: #a09496; /* Verde de sucesso */
   --cor-botoes-hover: #218838; /* Verde mais escuro para hover */
-  --cor-titulo: #ffffff; /* Cor escura para os títulos */
+  --cor-titulo: #161616; /* Cor escura para os títulos */
   --cor-texto: #212529; /* Cor do texto principal */
   --cor-texto-secundario: #2d95f0; /* Cor suave para texto secundário */
   
@@ -89,6 +89,6 @@
   }
   
   footer p{
-    color: var(--cor-fundo-pagina);
+    color: var(--cor-texto);
   }
   
